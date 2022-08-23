@@ -1,0 +1,15 @@
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\bin\Debug\net6.0\Trabalho7.exe
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\bin\Debug\net6.0\Trabalho7.deps.json
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\bin\Debug\net6.0\Trabalho7.runtimeconfig.json
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\bin\Debug\net6.0\Trabalho7.dll
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\bin\Debug\net6.0\Trabalho7.pdb
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\Trabalho7.csproj.AssemblyReference.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\Trabalho7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\Trabalho7.AssemblyInfoInputs.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\Trabalho7.AssemblyInfo.cs
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\Trabalho7.csproj.CoreCompileInputs.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\Trabalho7.dll
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\refint\Trabalho7.dll
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\Trabalho7.pdb
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\Trabalho7.genruntimeconfig.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho7\obj\Debug\net6.0\ref\Trabalho7.dll

@@ -1,0 +1,17 @@
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\bin\Debug\net6.0-windows\DesafioIMasters.exe
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\bin\Debug\net6.0-windows\DesafioIMasters.deps.json
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\bin\Debug\net6.0-windows\DesafioIMasters.runtimeconfig.json
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\bin\Debug\net6.0-windows\DesafioIMasters.dll
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\bin\Debug\net6.0-windows\DesafioIMasters.pdb
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.csproj.AssemblyReference.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.frmVerifica.resources
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.csproj.GenerateResource.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.AssemblyInfoInputs.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.AssemblyInfo.cs
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.csproj.CoreCompileInputs.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.dll
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\refint\DesafioIMasters.dll
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.pdb
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\DesafioIMasters.genruntimeconfig.cache
+C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\DesafioIMasters\obj\Debug\net6.0-windows\ref\DesafioIMasters.dll
