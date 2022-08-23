@@ -13,3 +13,18 @@ C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho5\obj\Debug\net6.0
 C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.pdb
 C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.genruntimeconfig.cache
 C:\Users\Jonathas Sodré\source\repos\DesafioIMasters\Trabalho5\obj\Debug\net6.0\ref\Trabalho5.dll
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\bin\Debug\net6.0\Trabalho5.exe
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\bin\Debug\net6.0\Trabalho5.deps.json
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\bin\Debug\net6.0\Trabalho5.runtimeconfig.json
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\bin\Debug\net6.0\Trabalho5.dll
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\bin\Debug\net6.0\Trabalho5.pdb
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.csproj.AssemblyReference.cache
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.AssemblyInfoInputs.cache
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.AssemblyInfo.cs
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.csproj.CoreCompileInputs.cache
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.dll
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\refint\Trabalho5.dll
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.pdb
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\Trabalho5.genruntimeconfig.cache
+C:\Users\Jonathas Sodré\VS Projects\DesafioIMasters\Trabalho5\obj\Debug\net6.0\ref\Trabalho5.dll
