@@ -32,7 +32,10 @@ namespace Trabalho8
                         program.NumeroMaior(num1, num2);
                         break;
                     case 2:
-                        
+                        Console.WriteLine("Informe o número a ser analisado:");
+                        numeroEscolhido = Convert.ToInt32(Console.ReadLine());
+
+                        program.NumeroPrimo(numeroEscolhido);
                         break;
                     
                     default:
@@ -81,6 +84,15 @@ namespace Trabalho8
                     break;
                 }
                 i++;
+            }
+
+            if (i == numeroEscolhido)
+            {
+                Console.WriteLine("\nEste número é um número Primo.");
+            }
+            if (numeroEscolhido == 0 || numeroEscolhido == 1)
+            {
+                Console.WriteLine("\nEste número não Composto nem Primo.");
             }
         }
     }
